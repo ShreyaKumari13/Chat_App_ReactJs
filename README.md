@@ -1,4 +1,4 @@
-download the file and open it.
+Download the file and open it.
 
 Open the chat-app in windows powershell and type the command npm install -g expo-cli
 
@@ -20,4 +20,4 @@ You can continue with any of your required choice.
 
 If you want to continue with qr code you can download Expo Go and open the app and scan the qr code using the phone app.
 
-if you want to continue with website link click on that and you will be taken to the page where you can use the app.  
+If you want to continue with website link click on that and you will be taken to the page where you can use the app.  
