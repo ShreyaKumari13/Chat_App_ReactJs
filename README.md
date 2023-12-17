@@ -1,4 +1,4 @@
-Download the file and open it.
+Download the file and save it a folder chat-app and open it.
 
 Open the chat-app in windows powershell and type the command npm install -g expo-cli
 
