@@ -6,8 +6,6 @@ This is a chat-app.
 
 Create a firebase account and you will get your api key.
 
-Download the file and open it.
-
 In the firebase.js file edit your firebaseConfig with your apikey in firebase.
 
 Open a termianl and type the command npm install.
