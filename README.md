@@ -1,4 +1,4 @@
-Download the file and save it a folder chat-app and open it.
+Download the file and save it as a folder chat-app and open it.
 
 Open the chat-app in windows powershell and type the command npm install -g expo-cli
 
@@ -8,7 +8,7 @@ Create a firebase account and you will get your api key.
 
 In the firebase.js file edit your firebaseConfig with your apikey in firebase.
 
-Open a termianl and type the command npm install.
+Open the terminal and type the command npm install.
 
 Then type the command npm start.
 
